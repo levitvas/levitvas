@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Master's student in CS interested in different usages of the Rust programming language!
+Currently trying out Rust for graphics as well as embedded programming.
+
+- 📫 How to reach me: levitskiy.vasily@gmail.com
+
 <!--
 **levitvas/levitvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
